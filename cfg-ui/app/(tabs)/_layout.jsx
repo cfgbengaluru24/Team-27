@@ -106,6 +106,7 @@ const TabLayout = () => {
             ),
           }}
         />
+        
       </Tabs>
 
       <Loader isLoading={loading} />

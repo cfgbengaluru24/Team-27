@@ -47,15 +47,12 @@ const SignIn = () => {
             minHeight: Dimensions.get("window").height - 100,
           }}
         >
-          <Image
-            source={images.logo}
-            resizeMode="contain"
-            className="w-[115px] h-[34px]"
-          />
+          
 
-          <Text className="text-2xl font-semibold text-white mt-10 font-psemibold">
-            Log in to Aora
-          </Text>
+          <Text className="text-3xl text-white font-bold text-center">
+              Login To 
+              <Text className="text-secondary-200">Tech4Shola</Text>
+            </Text>
 
           <FormField
             title="Email"

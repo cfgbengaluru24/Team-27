@@ -22,11 +22,15 @@ const Welcome = () => {
         }}
       >
         <View className="w-full flex justify-center items-center h-full px-4">
-          <Image
+          {/* <Image
             source={images.logo}
             className="w-[130px] h-[84px]"
             resizeMode="contain"
-          />
+          /> */}
+          <Text className="text-3xl text-white font-bold text-center">
+            Hello! Welcome to our intuitive 
+              <Text className="text-secondary-200"> solution!</Text>
+            </Text>
 
           <Image
             source={images.cards}
@@ -38,7 +42,7 @@ const Welcome = () => {
             <Text className="text-3xl text-white font-bold text-center">
               Discover Endless{"\n"}
               Possibilities with{" "}
-              <Text className="text-secondary-200">Aora</Text>
+              <Text className="text-secondary-200">Tech4Shola</Text>
             </Text>
 
             <Image
@@ -49,8 +53,7 @@ const Welcome = () => {
           </View>
 
           <Text className="text-sm font-pregular text-gray-100 mt-7 text-center">
-            Where Creativity Meets Innovation: Embark on a Journey of Limitless
-            Exploration with Aora
+            An end to end technical solution for your problem!
           </Text>
 
           <CustomButton
