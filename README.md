@@ -1,5 +1,3 @@
-Here's an updated README for your project with headings, bullet points, and emojis:
-
 # Team-27 Project: Lantana Removal and Circular Green Economy 🌿
 
 ## Problem Statement
