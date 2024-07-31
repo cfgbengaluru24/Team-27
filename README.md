@@ -1,4 +1,4 @@
-# Team-27 Project: Lantana Removal and Circular Green Economy 🌿
+# Team-27 JPMC Project: Lantana Removal and Circular Green Economy 🌿
 
 ## Problem Statement
 The Shola Trust has identified Lantana camara's invasion as a significant threat causing biodiversity loss and human-wildlife conflicts. They seek innovative, scalable removal strategies.
