@@ -37,3 +37,4 @@ We propose a circular green economy integrating Lantana removal, forest restorat
 ![WhatsApp Image 2024-07-28 at 07 19 48_72531c15](https://github.com/user-attachments/assets/3c751620-5ae6-432f-a6a2-d1e6c583bb86)
 
 
+ <br /> <br /> The code ("Code") in this repository was created solely by the student teams during a coding competition hosted by JPMorgan Chase Bank, N.A. ("JPMC"). JPMC did not create or contribute to the development of the Code. This Code is provided AS IS and JPMC makes no warranty of any kind, express or implied, as to the Code, including but not limited to, merchantability, satisfactory quality, non-infringement, title or fitness for a particular purpose or use.
